@@ -8,3 +8,5 @@ evalScore/build/
 getTimeSig4Bar/build/
 
 node_modules/
+
+TimeSelection/build/

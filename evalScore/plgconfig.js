@@ -1,6 +1,6 @@
 var config = {
-  plgPath:         process.env.USERPROFILE + '\\AppData\\Roaming\\Avid\\Sibelius\\Plugins',
-  plgCategory:    'sibDevTools',
+  plgPath:         '..\\__deploy',
+  plgCategory:    'DevHelper',
   pluginFilename: 'evalScore.plg',
   linkLibraries:  [],
   importDir:      './import',
