@@ -1,0 +1,10 @@
+
+__deploy/
+
+analyzeBeams/build/
+
+evalScore/build/
+
+getTimeSig4Bar/build/
+
+node_modules/
